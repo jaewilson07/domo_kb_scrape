@@ -1,9 +1,9 @@
 ---
-title: nbdev Blog
-subtitle: News, tips, and commentary about all things nbdev
+title: Working With DataSets In Domo
+
 listing:
     sort: "date desc"
-    contents: "sub_category"
+    contents: "administrating_domo"
     sort-ui: false
     filter-ui: false
     categories: true
