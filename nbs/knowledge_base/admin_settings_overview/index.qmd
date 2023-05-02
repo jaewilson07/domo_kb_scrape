@@ -3,7 +3,7 @@ title: Working With DataSets In Domo
 
 listing:
     sort: "date desc"
-    contents: "administrating_domo"
+    contents: "posts"
     sort-ui: false
     filter-ui: false
     categories: true
