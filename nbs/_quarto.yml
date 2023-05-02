@@ -4,7 +4,7 @@ format:
     theme: cosmo
     toc: true
 metadata-files:
-- nbdev.yml
+  - nbdev.yml
 project:
   type: website
 website:
@@ -13,35 +13,48 @@ website:
     search: true
   open-graph: true
   repo-actions:
-  - issue
+    - issue
   sidebar:
     contents:
-    - auto: index.ipynb
-    - href: knowledge_base/administrating_domo/index.qmd
-      section: Administrating Domo
-    - href: knowledge_base/connecting_data_to_domo/index.qmd
-      section: Connecting Data To Domo
-    - href: knowledge_base/consuming_data_in_domo/index.qmd
-      section: Consuming Data In Domo
-    - href: knowledge_base/creating_content_in_domo/index.qmd
-      section: Creating Content In Domo
-    - href: knowledge_base/creating_custom_visualizations/index.qmd
-      section: Creating Custom Visualizations
-    - href: knowledge_base/distributing_domo_content/index.qmd
-      section: Distributing Domo Content
-    - href: knowledge_base/getting_to_know_domo/index.qmd
-      section: Getting To Know Domo
-    - href: knowledge_base/release_notes/index.qmd
-      section: Release Notes
-    - href: knowledge_base/training/index.qmd
-      section: Training
-    - href: knowledge_base/transforming_data_in_domo/index.qmd
-      section: Transforming Data In Domo
-    - href: knowledge_base/understanding_data/index.qmd
-      section: Understanding Data
-    - href: knowledge_base/using_domo_apis/index.qmd
-      section: Using Domo APIs
-    - href: knowledge_base/working_with_datasets_in_domo/index.qmd
-      section: Working With DataSets In Domo
+      - auto: index.ipynb
+      - contents:
+          - knowledge_base/administrating_domo/index.qmd
+        section: Administrating Domo
+      - contents:
+          - knowledge_base/connecting_data_to_domo/index.qmd
+        section: Connecting Data To Domo
+      - contents:
+          - knowledge_base/consuming_data_in_domo/index.qmd
+        section: Consuming Data In Domo
+      - contents:
+          - knowledge_base/creating_content_in_domo/index.qmd
+        section: Creating Content In Domo
+      - contents:
+          - knowledge_base/creating_custom_visualizations/index.qmd
+        section: Creating Custom Visualizations
+      - contents:
+          - knowledge_base/distributing_domo_content/index.qmd
+        section: Distributing Domo Content
+      - contents:
+          - knowledge_base/getting_to_know_domo/index.qmd
+        section: Getting To Know Domo
+      - contents:
+          - knowledge_base/release_notes/index.qmd
+        section: Release Notes
+      - contents:
+          - knowledge_base/training/index.qmd
+        section: Training
+      - contents:
+          - knowledge_base/transforming_data_in_domo/index.qmd
+        section: Transforming Data In Domo
+      - contents:
+          - knowledge_base/understanding_data/index.qmd
+        section: Understanding Data
+      - contents:
+          - knowledge_base/using_domo_apis/index.qmd
+        section: Using Domo APIs
+      - contents:
+          - knowledge_base/working_with_datasets_in_domo/index.qmd
+        section: Working With DataSets In Domo
     style: floating
   twitter-card: true
