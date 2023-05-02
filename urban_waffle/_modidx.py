@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://jaewilson07.github.io',
                 'git_url': 'https://github.com/jaewilson07/urban-waffle',
                 'lib_path': 'urban_waffle'},
-  'syms': {'urban_waffle.core': {'urban_waffle.core.foo': ('core.html#foo', 'urban_waffle/core.py')}}}
+  'syms': {'urban_waffle.core': {'urban_waffle.core.foo': ('test/core.html#foo', 'urban_waffle/core.py')}}}

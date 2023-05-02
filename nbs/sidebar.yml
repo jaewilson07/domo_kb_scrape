@@ -2,4 +2,25 @@ website:
   sidebar:
     contents:
       - index.ipynb
-      - 00_core.ipynb
+      - section: knowledge_base
+        contents:
+          - knowledge_base/index.qmd
+          - section: posts
+            contents:
+              - section: sub_category
+                contents:
+                  - knowledge_base/posts/sub_category/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: posts
+            contents:
+              - section: sub_category
+                contents:
+                  - section: posts
+                    contents:
+                      - section: post_1
+                        contents:
+                          - knowledge_base/posts/sub_category/posts/post_1/index.qmd
+      - section: test
+        contents:
+          - test/00_core.ipynb
