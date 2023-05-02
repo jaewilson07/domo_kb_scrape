@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "urban-waffle"
+  site-url: "https://jaewilson07.github.io/urban-waffle"
+  description: "domo_kbs"
+  repo-branch: main
+  repo-url: "https://github.com/jaewilson07/urban-waffle"
