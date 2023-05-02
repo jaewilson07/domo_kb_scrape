@@ -1,6 +1,6 @@
 ---
-title: Working With DataSets In Domo
-
+title: Connecting Data To Domo
+subtitle: Learn about the different ways of bringing your data into Domo--connectors, Workbench, CLI tool, and more.
 listing:
     sort: "date desc"
     contents: "posts"

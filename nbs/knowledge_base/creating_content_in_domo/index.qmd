@@ -1,6 +1,6 @@
 ---
-title: Working With DataSets In Domo
-
+title: Creating Content In Domo
+subtitle: Learn how to visualize your data so you can tell the stories to move your business forward. Includes info on Cards and Pages, Analyzer, chart types, Beast Mode, and more.
 listing:
     sort: "date desc"
     contents: "posts"

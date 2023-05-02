@@ -4,7 +4,7 @@ format:
     theme: cosmo
     toc: true
 metadata-files:
-  - nbdev.yml
+- nbdev.yml
 project:
   type: website
 website:
@@ -13,203 +13,35 @@ website:
     search: true
   open-graph: true
   repo-actions:
-    - issue
+  - issue
   sidebar:
     contents:
-      - auto: index.ipynb
-      - contents: knowledge_base/administrating_domo/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/connecting_data_to_domo/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/consuming_data_in_domo/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/creating_content_in_domo/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/creating_custom_visualizations/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/distributing_domo_content/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/getting_to_know_domo/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/release_notes/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/training/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/transforming_data_in_domo/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/understanding_data/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/using_domo_apis/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/working_with_datasets_in_domo/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/admin_settings_overview/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/approvals/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/archived_feature_release_notes/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/automl_machine_learning/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/available_apps/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/beast_mode/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/domo_everywhere/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/business_in_a_box/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/domo_mobile/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/buzz/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/domo_security_options/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/card_and_dashboard_management/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/certifications/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/enterprise_stacker/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/exporting_cards_and_dashboards/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/free_domo/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/getting_started/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/connectors/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/goals_center/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/controlling_access_in_domo/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/governance_tools/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/current_release_notes/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/implementing_sso/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/publish_in_the_appstore/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/data_center_overview/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/interacting_with_cards_and_dashboards/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/data_literacy/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/dataflow_management/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/magic_etl/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/datafusion/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/notebook_cards/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/dataset_views/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/notifications_and_alerts/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/developer_topics/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/other_connection_methods/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/doc_cards/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/paid_training/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/personalized_data_permissions_pdp/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/plugins_for_sharing_domo_content/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/poll_cards/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/projects_and_tasks/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/publication_groups/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/publications_slideshows/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/sdks/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/sql_dataflows/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/scheduled_reports/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/selfservice_training/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/chart_properties/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/chart_types/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/sharing_access_to_cards_and_dashboards/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/sharing_access_to_datasets/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/coursebuilder_14/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/specifying_company_settings/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/sumo_cards/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/support_resources/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/database_connectors/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/transformation_tips_and_tricks/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/user_profile/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/explore_the_appstore/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/visualization_cards/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/workbench/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/api_connectors/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/analyzer/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/available_custom_connectors/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/file_connectors/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/best_practices_resources/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/general_connect_info/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/business_users_and_adoption_resources/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/onboarding_resources/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/partition_connectors/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/powering_your_card/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/roles/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/user_and_group_management/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/visualization_card_details_view_actions/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/workbench_4/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/workbench_5/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/workbench_51/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/writeback_connectors/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/workbench_52/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/variables/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/tiles/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/cloud_amplifier/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/microsoft_office_addins/index.qmd
-        section: Working With DataSets In Domo
-      - contents: knowledge_base/workflows/index.qmd
-        section: Working With DataSets In Domo
+    - auto: index.ipynb
+    - href: knowledge_base/administrating_domo/index.qmd
+      section: Administrating Domo
+    - href: knowledge_base/connecting_data_to_domo/index.qmd
+      section: Connecting Data To Domo
+    - href: knowledge_base/consuming_data_in_domo/index.qmd
+      section: Consuming Data In Domo
+    - href: knowledge_base/creating_content_in_domo/index.qmd
+      section: Creating Content In Domo
+    - href: knowledge_base/creating_custom_visualizations/index.qmd
+      section: Creating Custom Visualizations
+    - href: knowledge_base/distributing_domo_content/index.qmd
+      section: Distributing Domo Content
+    - href: knowledge_base/getting_to_know_domo/index.qmd
+      section: Getting To Know Domo
+    - href: knowledge_base/release_notes/index.qmd
+      section: Release Notes
+    - href: knowledge_base/training/index.qmd
+      section: Training
+    - href: knowledge_base/transforming_data_in_domo/index.qmd
+      section: Transforming Data In Domo
+    - href: knowledge_base/understanding_data/index.qmd
+      section: Understanding Data
+    - href: knowledge_base/using_domo_apis/index.qmd
+      section: Using Domo APIs
+    - href: knowledge_base/working_with_datasets_in_domo/index.qmd
+      section: Working With DataSets In Domo
     style: floating
   twitter-card: true

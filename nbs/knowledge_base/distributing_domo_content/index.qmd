@@ -1,6 +1,6 @@
 ---
-title: Working With DataSets In Domo
-
+title: Distributing Domo Content
+subtitle: Learn how to share your Domo data within your own company and with the rest of the world. Includes info about exporting Cards, building slide presentations, Domo Embed, and more.
 listing:
     sort: "date desc"
     contents: "posts"

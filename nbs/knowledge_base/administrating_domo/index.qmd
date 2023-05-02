@@ -1,6 +1,6 @@
 ---
-title: Working With DataSets In Domo
-
+title: Administrating Domo
+subtitle: Learn how to manage users and groups, control access to content, configure security settings, and more.
 listing:
     sort: "date desc"
     contents: "posts"

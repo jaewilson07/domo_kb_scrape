@@ -1,6 +1,6 @@
 ---
-title: Working With DataSets In Domo
-
+title: Consuming Data In Domo
+subtitle: Increase the productivity for your business using built-in tools like Buzz, Projects and Tasks, and Domo Alerts.
 listing:
     sort: "date desc"
     contents: "posts"

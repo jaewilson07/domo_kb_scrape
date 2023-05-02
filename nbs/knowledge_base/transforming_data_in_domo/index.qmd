@@ -1,6 +1,6 @@
 ---
-title: Working With DataSets In Domo
-
+title: Transforming Data In Domo
+subtitle: Learn how to prepare your data to provide real value. Includes Magic ETL, SQL DataFlows, DataFusion, and more.
 listing:
     sort: "date desc"
     contents: "posts"

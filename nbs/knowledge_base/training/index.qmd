@@ -1,6 +1,6 @@
 ---
-title: Working With DataSets In Domo
-
+title: Training
+subtitle: Access content for self-service and paid Domo training.
 listing:
     sort: "date desc"
     contents: "posts"

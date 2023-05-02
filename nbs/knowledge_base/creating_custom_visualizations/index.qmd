@@ -1,6 +1,6 @@
 ---
-title: Working With DataSets In Domo
-
+title: Creating Custom Visualizations
+subtitle: Learn about the Domo Appstore, the premier destination for decision makers to find answers to their business questions.
 listing:
     sort: "date desc"
     contents: "posts"

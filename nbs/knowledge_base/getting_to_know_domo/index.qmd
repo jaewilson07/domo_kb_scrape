@@ -1,6 +1,6 @@
 ---
-title: Working With DataSets In Domo
-
+title: Getting To Know Domo
+subtitle: Everything you need to know to get underway in Domo. Get access to support articles, system requirements, white papers, and more.
 listing:
     sort: "date desc"
     contents: "posts"

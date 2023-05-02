@@ -1,6 +1,6 @@
 ---
-title: Working With DataSets In Domo
-
+title: Release Notes
+subtitle: Learn about released Domo features for the past several years.
 listing:
     sort: "date desc"
     contents: "posts"
