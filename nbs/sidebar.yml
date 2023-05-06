@@ -5,22 +5,703 @@ website:
       - section: knowledge_base
         contents:
           - knowledge_base/index.qmd
-          - section: posts
+          - section: administrating_domo
             contents:
-              - section: sub_category
-                contents:
-                  - knowledge_base/posts/sub_category/index.qmd
+              - knowledge_base/administrating_domo/index.qmd
       - section: knowledge_base
         contents:
-          - section: posts
+          - section: administrating_domo
             contents:
-              - section: sub_category
+              - section: admin_settings_overview
                 contents:
-                  - section: posts
+                  - knowledge_base/administrating_domo/admin_settings_overview/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: administrating_domo
+            contents:
+              - section: approvals
+                contents:
+                  - knowledge_base/administrating_domo/approvals/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: administrating_domo
+            contents:
+              - section: certifications
+                contents:
+                  - knowledge_base/administrating_domo/certifications/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: administrating_domo
+            contents:
+              - section: controlling_access_in_domo
+                contents:
+                  - knowledge_base/administrating_domo/controlling_access_in_domo/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: administrating_domo
+            contents:
+              - section: controlling_access_in_domo
+                contents:
+                  - section: roles
                     contents:
-                      - section: post_1
-                        contents:
-                          - knowledge_base/posts/sub_category/posts/post_1/index.qmd
+                      - knowledge_base/administrating_domo/controlling_access_in_domo/roles/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: administrating_domo
+            contents:
+              - section: controlling_access_in_domo
+                contents:
+                  - section: user_and_group_management
+                    contents:
+                      - knowledge_base/administrating_domo/controlling_access_in_domo/user_and_group_management/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: administrating_domo
+            contents:
+              - section: domo_security_options
+                contents:
+                  - knowledge_base/administrating_domo/domo_security_options/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: administrating_domo
+            contents:
+              - section: governance_tools
+                contents:
+                  - knowledge_base/administrating_domo/governance_tools/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: administrating_domo
+            contents:
+              - section: implementing_sso
+                contents:
+                  - knowledge_base/administrating_domo/implementing_sso/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: administrating_domo
+            contents:
+              - section: specifying_company_settings
+                contents:
+                  - knowledge_base/administrating_domo/specifying_company_settings/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: administrating_domo
+            contents:
+              - section: workflows
+                contents:
+                  - knowledge_base/administrating_domo/workflows/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: connecting_data_to_domo
+            contents:
+              - knowledge_base/connecting_data_to_domo/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: connecting_data_to_domo
+            contents:
+              - section: cloud_amplifier
+                contents:
+                  - knowledge_base/connecting_data_to_domo/cloud_amplifier/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: connecting_data_to_domo
+            contents:
+              - section: connectors
+                contents:
+                  - knowledge_base/connecting_data_to_domo/connectors/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: connecting_data_to_domo
+            contents:
+              - section: connectors
+                contents:
+                  - section: api_connectors
+                    contents:
+                      - knowledge_base/connecting_data_to_domo/connectors/api_connectors/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: connecting_data_to_domo
+            contents:
+              - section: connectors
+                contents:
+                  - section: available_custom_connectors
+                    contents:
+                      - knowledge_base/connecting_data_to_domo/connectors/available_custom_connectors/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: connecting_data_to_domo
+            contents:
+              - section: connectors
+                contents:
+                  - section: database_connectors
+                    contents:
+                      - knowledge_base/connecting_data_to_domo/connectors/database_connectors/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: connecting_data_to_domo
+            contents:
+              - section: connectors
+                contents:
+                  - section: file_connectors
+                    contents:
+                      - knowledge_base/connecting_data_to_domo/connectors/file_connectors/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: connecting_data_to_domo
+            contents:
+              - section: connectors
+                contents:
+                  - section: general_connect_info
+                    contents:
+                      - knowledge_base/connecting_data_to_domo/connectors/general_connect_info/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: connecting_data_to_domo
+            contents:
+              - section: connectors
+                contents:
+                  - section: partition_connectors
+                    contents:
+                      - knowledge_base/connecting_data_to_domo/connectors/partition_connectors/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: connecting_data_to_domo
+            contents:
+              - section: connectors
+                contents:
+                  - section: writeback_connectors
+                    contents:
+                      - knowledge_base/connecting_data_to_domo/connectors/writeback_connectors/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: connecting_data_to_domo
+            contents:
+              - section: other_connection_methods
+                contents:
+                  - knowledge_base/connecting_data_to_domo/other_connection_methods/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: connecting_data_to_domo
+            contents:
+              - section: workbench
+                contents:
+                  - knowledge_base/connecting_data_to_domo/workbench/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: connecting_data_to_domo
+            contents:
+              - section: workbench
+                contents:
+                  - section: workbench_4
+                    contents:
+                      - knowledge_base/connecting_data_to_domo/workbench/workbench_4/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: connecting_data_to_domo
+            contents:
+              - section: workbench
+                contents:
+                  - section: workbench_5
+                    contents:
+                      - knowledge_base/connecting_data_to_domo/workbench/workbench_5/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: connecting_data_to_domo
+            contents:
+              - section: workbench
+                contents:
+                  - section: workbench_51
+                    contents:
+                      - knowledge_base/connecting_data_to_domo/workbench/workbench_51/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: connecting_data_to_domo
+            contents:
+              - section: workbench
+                contents:
+                  - section: workbench_52
+                    contents:
+                      - knowledge_base/connecting_data_to_domo/workbench/workbench_52/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: consuming_data_in_domo
+            contents:
+              - knowledge_base/consuming_data_in_domo/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: consuming_data_in_domo
+            contents:
+              - section: exporting_cards_and_dashboards
+                contents:
+                  - knowledge_base/consuming_data_in_domo/exporting_cards_and_dashboards/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: consuming_data_in_domo
+            contents:
+              - section: interacting_with_cards_and_dashboards
+                contents:
+                  - knowledge_base/consuming_data_in_domo/interacting_with_cards_and_dashboards/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_content_in_domo
+            contents:
+              - knowledge_base/creating_content_in_domo/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_content_in_domo
+            contents:
+              - section: beast_mode
+                contents:
+                  - knowledge_base/creating_content_in_domo/beast_mode/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_content_in_domo
+            contents:
+              - section: card_and_dashboard_management
+                contents:
+                  - knowledge_base/creating_content_in_domo/card_and_dashboard_management/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_content_in_domo
+            contents:
+              - section: doc_cards
+                contents:
+                  - knowledge_base/creating_content_in_domo/doc_cards/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_content_in_domo
+            contents:
+              - section: notebook_cards
+                contents:
+                  - knowledge_base/creating_content_in_domo/notebook_cards/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_content_in_domo
+            contents:
+              - section: poll_cards
+                contents:
+                  - knowledge_base/creating_content_in_domo/poll_cards/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_content_in_domo
+            contents:
+              - section: sharing_access_to_cards_and_dashboards
+                contents:
+                  - knowledge_base/creating_content_in_domo/sharing_access_to_cards_and_dashboards/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_content_in_domo
+            contents:
+              - section: sumo_cards
+                contents:
+                  - knowledge_base/creating_content_in_domo/sumo_cards/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_content_in_domo
+            contents:
+              - section: variables
+                contents:
+                  - knowledge_base/creating_content_in_domo/variables/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_content_in_domo
+            contents:
+              - section: visualization_cards
+                contents:
+                  - knowledge_base/creating_content_in_domo/visualization_cards/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_content_in_domo
+            contents:
+              - section: visualization_cards
+                contents:
+                  - section: analyzer
+                    contents:
+                      - knowledge_base/creating_content_in_domo/visualization_cards/analyzer/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_content_in_domo
+            contents:
+              - section: visualization_cards
+                contents:
+                  - section: chart_properties
+                    contents:
+                      - knowledge_base/creating_content_in_domo/visualization_cards/chart_properties/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_content_in_domo
+            contents:
+              - section: visualization_cards
+                contents:
+                  - section: chart_types
+                    contents:
+                      - knowledge_base/creating_content_in_domo/visualization_cards/chart_types/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_content_in_domo
+            contents:
+              - section: visualization_cards
+                contents:
+                  - section: powering_your_card
+                    contents:
+                      - knowledge_base/creating_content_in_domo/visualization_cards/powering_your_card/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_content_in_domo
+            contents:
+              - section: visualization_cards
+                contents:
+                  - section: visualization_card_details_view_actions
+                    contents:
+                      - knowledge_base/creating_content_in_domo/visualization_cards/visualization_card_details_view_actions/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_custom_visualizations
+            contents:
+              - knowledge_base/creating_custom_visualizations/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_custom_visualizations
+            contents:
+              - section: available_apps
+                contents:
+                  - knowledge_base/creating_custom_visualizations/available_apps/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_custom_visualizations
+            contents:
+              - section: explore_the_appstore
+                contents:
+                  - knowledge_base/creating_custom_visualizations/explore_the_appstore/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: creating_custom_visualizations
+            contents:
+              - section: publish_in_the_appstore
+                contents:
+                  - knowledge_base/creating_custom_visualizations/publish_in_the_appstore/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: distributing_domo_content
+            contents:
+              - knowledge_base/distributing_domo_content/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: distributing_domo_content
+            contents:
+              - section: domo_everywhere
+                contents:
+                  - knowledge_base/distributing_domo_content/domo_everywhere/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: distributing_domo_content
+            contents:
+              - section: microsoft_office_addins
+                contents:
+                  - knowledge_base/distributing_domo_content/microsoft_office_addins/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: distributing_domo_content
+            contents:
+              - section: plugins_for_sharing_domo_content
+                contents:
+                  - knowledge_base/distributing_domo_content/plugins_for_sharing_domo_content/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: distributing_domo_content
+            contents:
+              - section: publication_groups
+                contents:
+                  - knowledge_base/distributing_domo_content/publication_groups/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: distributing_domo_content
+            contents:
+              - section: publications_slideshows
+                contents:
+                  - knowledge_base/distributing_domo_content/publications_slideshows/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: distributing_domo_content
+            contents:
+              - section: scheduled_reports
+                contents:
+                  - knowledge_base/distributing_domo_content/scheduled_reports/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: getting_to_know_domo
+            contents:
+              - knowledge_base/getting_to_know_domo/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: getting_to_know_domo
+            contents:
+              - section: business_in_a_box
+                contents:
+                  - knowledge_base/getting_to_know_domo/business_in_a_box/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: getting_to_know_domo
+            contents:
+              - section: buzz
+                contents:
+                  - knowledge_base/getting_to_know_domo/buzz/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: getting_to_know_domo
+            contents:
+              - section: domo_mobile
+                contents:
+                  - knowledge_base/getting_to_know_domo/domo_mobile/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: getting_to_know_domo
+            contents:
+              - section: free_domo
+                contents:
+                  - knowledge_base/getting_to_know_domo/free_domo/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: getting_to_know_domo
+            contents:
+              - section: getting_started
+                contents:
+                  - knowledge_base/getting_to_know_domo/getting_started/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: getting_to_know_domo
+            contents:
+              - section: goals_center
+                contents:
+                  - knowledge_base/getting_to_know_domo/goals_center/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: getting_to_know_domo
+            contents:
+              - section: notifications_and_alerts
+                contents:
+                  - knowledge_base/getting_to_know_domo/notifications_and_alerts/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: getting_to_know_domo
+            contents:
+              - section: projects_and_tasks
+                contents:
+                  - knowledge_base/getting_to_know_domo/projects_and_tasks/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: getting_to_know_domo
+            contents:
+              - section: support_resources
+                contents:
+                  - knowledge_base/getting_to_know_domo/support_resources/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: getting_to_know_domo
+            contents:
+              - section: user_profile
+                contents:
+                  - knowledge_base/getting_to_know_domo/user_profile/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: release_notes
+            contents:
+              - knowledge_base/release_notes/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: release_notes
+            contents:
+              - section: archived_feature_release_notes
+                contents:
+                  - knowledge_base/release_notes/archived_feature_release_notes/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: release_notes
+            contents:
+              - section: current_release_notes
+                contents:
+                  - knowledge_base/release_notes/current_release_notes/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: training
+            contents:
+              - knowledge_base/training/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: training
+            contents:
+              - section: paid_training
+                contents:
+                  - knowledge_base/training/paid_training/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: training
+            contents:
+              - section: selfservice_training
+                contents:
+                  - knowledge_base/training/selfservice_training/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: training
+            contents:
+              - section: selfservice_training
+                contents:
+                  - section: best_practices_resources
+                    contents:
+                      - knowledge_base/training/selfservice_training/best_practices_resources/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: training
+            contents:
+              - section: selfservice_training
+                contents:
+                  - section: business_users_and_adoption_resources
+                    contents:
+                      - knowledge_base/training/selfservice_training/business_users_and_adoption_resources/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: training
+            contents:
+              - section: selfservice_training
+                contents:
+                  - section: coursebuilder_14
+                    contents:
+                      - knowledge_base/training/selfservice_training/coursebuilder_14/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: training
+            contents:
+              - section: selfservice_training
+                contents:
+                  - section: onboarding_resources
+                    contents:
+                      - knowledge_base/training/selfservice_training/onboarding_resources/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: transforming_data_in_domo
+            contents:
+              - knowledge_base/transforming_data_in_domo/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: transforming_data_in_domo
+            contents:
+              - section: dataflow_management
+                contents:
+                  - knowledge_base/transforming_data_in_domo/dataflow_management/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: transforming_data_in_domo
+            contents:
+              - section: datafusion
+                contents:
+                  - knowledge_base/transforming_data_in_domo/datafusion/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: transforming_data_in_domo
+            contents:
+              - section: dataset_views
+                contents:
+                  - knowledge_base/transforming_data_in_domo/dataset_views/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: transforming_data_in_domo
+            contents:
+              - section: enterprise_stacker
+                contents:
+                  - knowledge_base/transforming_data_in_domo/enterprise_stacker/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: transforming_data_in_domo
+            contents:
+              - section: magic_etl
+                contents:
+                  - knowledge_base/transforming_data_in_domo/magic_etl/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: transforming_data_in_domo
+            contents:
+              - section: magic_etl
+                contents:
+                  - section: tiles
+                    contents:
+                      - knowledge_base/transforming_data_in_domo/magic_etl/tiles/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: transforming_data_in_domo
+            contents:
+              - section: sdks
+                contents:
+                  - knowledge_base/transforming_data_in_domo/sdks/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: transforming_data_in_domo
+            contents:
+              - section: sql_dataflows
+                contents:
+                  - knowledge_base/transforming_data_in_domo/sql_dataflows/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: transforming_data_in_domo
+            contents:
+              - section: transformation_tips_and_tricks
+                contents:
+                  - knowledge_base/transforming_data_in_domo/transformation_tips_and_tricks/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: understanding_data
+            contents:
+              - knowledge_base/understanding_data/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: understanding_data
+            contents:
+              - section: data_literacy
+                contents:
+                  - knowledge_base/understanding_data/data_literacy/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: using_domo_apis
+            contents:
+              - knowledge_base/using_domo_apis/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: using_domo_apis
+            contents:
+              - section: developer_topics
+                contents:
+                  - knowledge_base/using_domo_apis/developer_topics/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: working_with_datasets_in_domo
+            contents:
+              - knowledge_base/working_with_datasets_in_domo/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: working_with_datasets_in_domo
+            contents:
+              - section: automl_machine_learning
+                contents:
+                  - knowledge_base/working_with_datasets_in_domo/automl_machine_learning/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: working_with_datasets_in_domo
+            contents:
+              - section: data_center_overview
+                contents:
+                  - knowledge_base/working_with_datasets_in_domo/data_center_overview/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: working_with_datasets_in_domo
+            contents:
+              - section: personalized_data_permissions_pdp
+                contents:
+                  - knowledge_base/working_with_datasets_in_domo/personalized_data_permissions_pdp/index.qmd
+      - section: knowledge_base
+        contents:
+          - section: working_with_datasets_in_domo
+            contents:
+              - section: sharing_access_to_datasets
+                contents:
+                  - knowledge_base/working_with_datasets_in_domo/sharing_access_to_datasets/index.qmd
       - section: test
         contents:
           - test/00_core.ipynb

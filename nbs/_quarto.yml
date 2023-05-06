@@ -19,7 +19,8 @@ website:
     - auto: index.ipynb
     - contents:
       - knowledge_base/index.qmd
-      - contents:
+      - section: Administrating Domo
+        contents:
         - knowledge_base/administrating_domo/index.qmd
         - contents:
           - knowledge_base/administrating_domo/admin_settings_overview/index.qmd
@@ -54,7 +55,6 @@ website:
         - contents:
           - knowledge_base/administrating_domo/workflows/index.qmd
           section: Workflows
-        section: Administrating Domo
       - contents:
         - knowledge_base/connecting_data_to_domo/index.qmd
         - contents:
