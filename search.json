@@ -1,0 +1,828 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "urban-waffle",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "urban-waffle",
+    "section": "Install",
+    "text": "Install\npip install urban_waffle"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "urban-waffle",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "knowledge_base/working_with_datasets_in_domo/data_center_overview/index.html",
+    "href": "knowledge_base/working_with_datasets_in_domo/data_center_overview/index.html",
+    "title": "Data Center Overview",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/working_with_datasets_in_domo/automl_machine_learning/index.html",
+    "href": "knowledge_base/working_with_datasets_in_domo/automl_machine_learning/index.html",
+    "title": "AutoML (Machine Learning)",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/working_with_datasets_in_domo/index.html",
+    "href": "knowledge_base/working_with_datasets_in_domo/index.html",
+    "title": "Working With DataSets In Domo",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/working_with_datasets_in_domo/sharing_access_to_datasets/index.html",
+    "href": "knowledge_base/working_with_datasets_in_domo/sharing_access_to_datasets/index.html",
+    "title": "Sharing Access To DataSets",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/working_with_datasets_in_domo/personalized_data_permissions_pdp/index.html",
+    "href": "knowledge_base/working_with_datasets_in_domo/personalized_data_permissions_pdp/index.html",
+    "title": "Personalized Data Permissions (PDP)",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/connecting_data_to_domo/other_connection_methods/index.html",
+    "href": "knowledge_base/connecting_data_to_domo/other_connection_methods/index.html",
+    "title": "Other Connection Methods",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/connecting_data_to_domo/workbench/workbench_4/index.html",
+    "href": "knowledge_base/connecting_data_to_domo/workbench/workbench_4/index.html",
+    "title": "Workbench 4",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/connecting_data_to_domo/workbench/workbench_5/index.html",
+    "href": "knowledge_base/connecting_data_to_domo/workbench/workbench_5/index.html",
+    "title": "Workbench 5",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/connecting_data_to_domo/workbench/index.html",
+    "href": "knowledge_base/connecting_data_to_domo/workbench/index.html",
+    "title": "Workbench",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/connecting_data_to_domo/workbench/workbench_51/index.html",
+    "href": "knowledge_base/connecting_data_to_domo/workbench/workbench_51/index.html",
+    "title": "Workbench 5.1",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/connecting_data_to_domo/workbench/workbench_52/index.html",
+    "href": "knowledge_base/connecting_data_to_domo/workbench/workbench_52/index.html",
+    "title": "Workbench 5.2",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/connecting_data_to_domo/index.html",
+    "href": "knowledge_base/connecting_data_to_domo/index.html",
+    "title": "Connecting Data To Domo",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/connecting_data_to_domo/cloud_amplifier/index.html",
+    "href": "knowledge_base/connecting_data_to_domo/cloud_amplifier/index.html",
+    "title": "Cloud Amplifier",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/connecting_data_to_domo/connectors/database_connectors/index.html",
+    "href": "knowledge_base/connecting_data_to_domo/connectors/database_connectors/index.html",
+    "title": "Database Connectors",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/connecting_data_to_domo/connectors/file_connectors/index.html",
+    "href": "knowledge_base/connecting_data_to_domo/connectors/file_connectors/index.html",
+    "title": "File Connectors",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/connecting_data_to_domo/connectors/api_connectors/index.html",
+    "href": "knowledge_base/connecting_data_to_domo/connectors/api_connectors/index.html",
+    "title": "API Connectors",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/connecting_data_to_domo/connectors/index.html",
+    "href": "knowledge_base/connecting_data_to_domo/connectors/index.html",
+    "title": "Connectors",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/connecting_data_to_domo/connectors/available_custom_connectors/index.html",
+    "href": "knowledge_base/connecting_data_to_domo/connectors/available_custom_connectors/index.html",
+    "title": "Available Custom Connectors",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/connecting_data_to_domo/connectors/partition_connectors/index.html",
+    "href": "knowledge_base/connecting_data_to_domo/connectors/partition_connectors/index.html",
+    "title": "Partition Connectors",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/connecting_data_to_domo/connectors/writeback_connectors/index.html",
+    "href": "knowledge_base/connecting_data_to_domo/connectors/writeback_connectors/index.html",
+    "title": "Writeback Connectors",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/connecting_data_to_domo/connectors/general_connect_info/index.html",
+    "href": "knowledge_base/connecting_data_to_domo/connectors/general_connect_info/index.html",
+    "title": "General Connect Info",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/release_notes/current_release_notes/index.html",
+    "href": "knowledge_base/release_notes/current_release_notes/index.html",
+    "title": "Current Release Notes",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/release_notes/index.html",
+    "href": "knowledge_base/release_notes/index.html",
+    "title": "Release Notes",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/release_notes/archived_feature_release_notes/index.html",
+    "href": "knowledge_base/release_notes/archived_feature_release_notes/index.html",
+    "title": "Archived Feature Release Notes",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/training/index.html",
+    "href": "knowledge_base/training/index.html",
+    "title": "Training",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/training/selfservice_training/best_practices_resources/index.html",
+    "href": "knowledge_base/training/selfservice_training/best_practices_resources/index.html",
+    "title": "Best Practices Resources",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/training/selfservice_training/onboarding_resources/index.html",
+    "href": "knowledge_base/training/selfservice_training/onboarding_resources/index.html",
+    "title": "Onboarding Resources",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/training/selfservice_training/index.html",
+    "href": "knowledge_base/training/selfservice_training/index.html",
+    "title": "Self-Service Training",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/training/selfservice_training/coursebuilder_14/index.html",
+    "href": "knowledge_base/training/selfservice_training/coursebuilder_14/index.html",
+    "title": "CourseBuilder 1.4",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/training/selfservice_training/business_users_and_adoption_resources/index.html",
+    "href": "knowledge_base/training/selfservice_training/business_users_and_adoption_resources/index.html",
+    "title": "Business Users And Adoption Resources",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/training/paid_training/index.html",
+    "href": "knowledge_base/training/paid_training/index.html",
+    "title": "Paid Training",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/index.html",
+    "href": "knowledge_base/index.html",
+    "title": "Knowledge Base",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_content_in_domo/card_and_dashboard_management/index.html",
+    "href": "knowledge_base/creating_content_in_domo/card_and_dashboard_management/index.html",
+    "title": "Card And Dashboard Management",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_content_in_domo/beast_mode/index.html",
+    "href": "knowledge_base/creating_content_in_domo/beast_mode/index.html",
+    "title": "Beast Mode",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_content_in_domo/sumo_cards/index.html",
+    "href": "knowledge_base/creating_content_in_domo/sumo_cards/index.html",
+    "title": "Sumo Cards",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_content_in_domo/doc_cards/index.html",
+    "href": "knowledge_base/creating_content_in_domo/doc_cards/index.html",
+    "title": "Doc Cards",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_content_in_domo/variables/index.html",
+    "href": "knowledge_base/creating_content_in_domo/variables/index.html",
+    "title": "Variables",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_content_in_domo/notebook_cards/index.html",
+    "href": "knowledge_base/creating_content_in_domo/notebook_cards/index.html",
+    "title": "Notebook Cards",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_content_in_domo/visualization_cards/chart_properties/index.html",
+    "href": "knowledge_base/creating_content_in_domo/visualization_cards/chart_properties/index.html",
+    "title": "Chart Properties",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_content_in_domo/visualization_cards/analyzer/index.html",
+    "href": "knowledge_base/creating_content_in_domo/visualization_cards/analyzer/index.html",
+    "title": "Analyzer",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_content_in_domo/visualization_cards/visualization_card_details_view_actions/index.html",
+    "href": "knowledge_base/creating_content_in_domo/visualization_cards/visualization_card_details_view_actions/index.html",
+    "title": "Visualization Card Details View Actions",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_content_in_domo/visualization_cards/index.html",
+    "href": "knowledge_base/creating_content_in_domo/visualization_cards/index.html",
+    "title": "Visualization Cards",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_content_in_domo/visualization_cards/powering_your_card/index.html",
+    "href": "knowledge_base/creating_content_in_domo/visualization_cards/powering_your_card/index.html",
+    "title": "Powering Your Card",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_content_in_domo/visualization_cards/chart_types/index.html",
+    "href": "knowledge_base/creating_content_in_domo/visualization_cards/chart_types/index.html",
+    "title": "Chart Types",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_content_in_domo/sharing_access_to_cards_and_dashboards/index.html",
+    "href": "knowledge_base/creating_content_in_domo/sharing_access_to_cards_and_dashboards/index.html",
+    "title": "Sharing Access To Cards And Dashboards",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_content_in_domo/index.html",
+    "href": "knowledge_base/creating_content_in_domo/index.html",
+    "title": "Creating Content In Domo",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_content_in_domo/poll_cards/index.html",
+    "href": "knowledge_base/creating_content_in_domo/poll_cards/index.html",
+    "title": "Poll Cards",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/distributing_domo_content/scheduled_reports/index.html",
+    "href": "knowledge_base/distributing_domo_content/scheduled_reports/index.html",
+    "title": "Scheduled Reports",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/distributing_domo_content/microsoft_office_addins/index.html",
+    "href": "knowledge_base/distributing_domo_content/microsoft_office_addins/index.html",
+    "title": "Microsoft Office Add-ins",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/distributing_domo_content/publication_groups/index.html",
+    "href": "knowledge_base/distributing_domo_content/publication_groups/index.html",
+    "title": "Publication Groups",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/distributing_domo_content/plugins_for_sharing_domo_content/index.html",
+    "href": "knowledge_base/distributing_domo_content/plugins_for_sharing_domo_content/index.html",
+    "title": "Plugins For Sharing Domo Content",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/distributing_domo_content/publications_slideshows/index.html",
+    "href": "knowledge_base/distributing_domo_content/publications_slideshows/index.html",
+    "title": "Publications (Slideshows)",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/distributing_domo_content/index.html",
+    "href": "knowledge_base/distributing_domo_content/index.html",
+    "title": "Distributing Domo Content",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/distributing_domo_content/domo_everywhere/index.html",
+    "href": "knowledge_base/distributing_domo_content/domo_everywhere/index.html",
+    "title": "Domo Everywhere",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/understanding_data/data_literacy/index.html",
+    "href": "knowledge_base/understanding_data/data_literacy/index.html",
+    "title": "Data Literacy",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/understanding_data/index.html",
+    "href": "knowledge_base/understanding_data/index.html",
+    "title": "Understanding Data",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/administrating_domo/certifications/index.html",
+    "href": "knowledge_base/administrating_domo/certifications/index.html",
+    "title": "Certifications",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/administrating_domo/workflows/index.html",
+    "href": "knowledge_base/administrating_domo/workflows/index.html",
+    "title": "Workflows",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/administrating_domo/implementing_sso/index.html",
+    "href": "knowledge_base/administrating_domo/implementing_sso/index.html",
+    "title": "Implementing SSO",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/administrating_domo/domo_security_options/index.html",
+    "href": "knowledge_base/administrating_domo/domo_security_options/index.html",
+    "title": "Domo Security Options",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/administrating_domo/specifying_company_settings/index.html",
+    "href": "knowledge_base/administrating_domo/specifying_company_settings/index.html",
+    "title": "Specifying Company Settings",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/administrating_domo/governance_tools/index.html",
+    "href": "knowledge_base/administrating_domo/governance_tools/index.html",
+    "title": "Governance Tools",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/administrating_domo/index.html",
+    "href": "knowledge_base/administrating_domo/index.html",
+    "title": "Administrating Domo",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/administrating_domo/approvals/index.html",
+    "href": "knowledge_base/administrating_domo/approvals/index.html",
+    "title": "Approvals",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/administrating_domo/admin_settings_overview/index.html",
+    "href": "knowledge_base/administrating_domo/admin_settings_overview/index.html",
+    "title": "Admin Settings Overview",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/administrating_domo/controlling_access_in_domo/user_and_group_management/index.html",
+    "href": "knowledge_base/administrating_domo/controlling_access_in_domo/user_and_group_management/index.html",
+    "title": "User And Group Management",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/administrating_domo/controlling_access_in_domo/index.html",
+    "href": "knowledge_base/administrating_domo/controlling_access_in_domo/index.html",
+    "title": "Controlling Access In Domo",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/administrating_domo/controlling_access_in_domo/roles/index.html",
+    "href": "knowledge_base/administrating_domo/controlling_access_in_domo/roles/index.html",
+    "title": "Roles",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html",
+    "title": "urban-waffle",
+    "section": "",
+    "text": "Flex Map v2 is a premium app available in the Appstore. Its main purpose is to display your data in different ways on a map to gain geographical and relational insights from the data. The app can map out various sets of locations and related data for those locations, create and display geographical territories to show the boundaries inside which mapped locations lie, and display heat maps to correlate locations with important metrics or demographics.\nBefore you begin using the app, make sure you have completed all the required configurations. Learn about these in the\nFlex Map v2 Implementation Guide\n.\n*Important:** Flex Map v2 is not the same as Flex Map v1. Learn about how to use that app in the\nFlex Map v1 User Guide\n.\nThis guide provides information for using Flex Map v2 in the following topics: * App navigation * Pin Layers * Map Layers * Favorites * Saved Maps * Heatmaps * Map Settings * Data Settings * User permissions and features * Interacting with the map * Demo notes"
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#intro",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#intro",
+    "title": "urban-waffle",
+    "section": "",
+    "text": "Flex Map v2 is a premium app available in the Appstore. Its main purpose is to display your data in different ways on a map to gain geographical and relational insights from the data. The app can map out various sets of locations and related data for those locations, create and display geographical territories to show the boundaries inside which mapped locations lie, and display heat maps to correlate locations with important metrics or demographics.\nBefore you begin using the app, make sure you have completed all the required configurations. Learn about these in the\nFlex Map v2 Implementation Guide\n.\n*Important:** Flex Map v2 is not the same as Flex Map v1. Learn about how to use that app in the\nFlex Map v1 User Guide\n.\nThis guide provides information for using Flex Map v2 in the following topics: * App navigation * Pin Layers * Map Layers * Favorites * Saved Maps * Heatmaps * Map Settings * Data Settings * User permissions and features * Interacting with the map * Demo notes"
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#app-navigation",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#app-navigation",
+    "title": "urban-waffle",
+    "section": "App Navigation",
+    "text": "App Navigation\nMap controls display on the right side of the screen.\nThe table below describes each of the map controls.\nIcon | Tool Description | | — | — | |\nZoom in / out — Allows you to adjust the zoom level for the map. | |\nReset bearing to north — Resets the map’s orientation to display north at the top. | |\nUndo / Redo — Unmakes or remakes a change to the map. | |\nExport — Enables you to export your map as an image, PowerPoint file, or PDF. | |\nReturn to default — Returns the map to its default settings. | |\nClear Map — Clears the map of all layers. | |\nSave Map — Saves the current map configuration. |\nAt the top of the screen are the main menu and the search bar.\nYou can access most of the app’s features from the main menu, by opening the hamburger menu. Each feature is described later in this guide.\n\nAfter you open the main menu, you can\n\n*Close** it to return to the default screen. * After you open any feature, you can\n*Expand** or\n*Collapse** the feature interface or\n*Close** it to return to the default screen. * Use the search bar to find locations from your connected data and display them temporarily on the map so you can favorite them. Learn more about\nFavorites\nbelow."
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#pin-layers",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#pin-layers",
+    "title": "urban-waffle",
+    "section": "Pin Layers",
+    "text": "Pin Layers\nIn the main menu, select Pin Layers to open the search interface.\nHere, you can create Layers, a subset of the locations data connected to the app.\nThe following table describes the tools in the Pin Layers menu:\nIcon | Tool Description | | — | — | |\nGroup — Creates a new group. | |\nItem — Creates a new item. | |\nClone — Copies the currently selected Pin Layer. The copied layer displays at the bottom of the Pin Layer list, with the name formatted as Name of Pin Layer - copy. | |\nList — Shows the list of individual locations that are currently being displayed. |\n\n\nCreating a Pin Layer\n\nSelect\n\n*Item** to create a new Pin Layer.\nThe New Pin Layers Search interface displays. 2. Select the list and choose a column from your data to begin filtering down the connected locations data to a subset of the data you want to display on the map. If your data is not connected, complete the necessary configuration by following the steps in the\nFlex Map v2 Implementation Guide\n. 3. Below the selected column, select whether to include locations that are In or Not In the values you select from the column. 4. (Optional) To apply more filtering criteria, select Item again to add another Pin Layer to the current layers. * First, select whether the Pin Layer has an And or an Or filter.\nAn And filter combines current Pin Layers with previous Pin Layers so that only locations that meet all And criteria display.\n Using an\n *Or*\n filter adds all locations that match that filter along with any other filters that are set.\n* Next, choose the category of additional Layer:\n **Parent Id**\n ,\n **Latitude**\n ,\n **Longitude**\n ,\n **Location Name**\n , or\n **City**\n .\nTwo more options, Channel Type and Channel Group , only display if more than one Pin Layer is pinned.\nYou can\n*Delete any Pin Layer to remove that filter. 5. Select List to view the results based on the search criteria. 6. (Optional) Select the star icon next to any result to add it to the Favorites section of the app. 7. After adding all of your filters, note the three buttons added to the Pin Layers menu: Select Icon , Select Color , and Save** .\n\n\nAdding Icons and Colors\nYou can choose to display specific locations or landmarks on the map with the icon selection palette. You can only use one icon per Pin Layer. If you want to add another icon, create a new Pin Layer.\n. Choose Select Icon in the Pin Layers menu.\nThe icon palette opens. 2. Select an icon to add to the Pin Layer. 3. (Optional) Go to the Size tab of the palette to adjust the size of the icon.\nYou can also choose to make an icon static or dynamic. If the icon is dynamic, the size changes with the zoom level of the map.\nThe icon displays on the map. If it doesn’t display, adjust the zoom level. 4. In the Pin Layers menu, choose Select Color to choose the display color for your search. 5. Select Save in the Pin Layers menu to save your search.\nThe Save Pin Layers Search modal displays. 6. Enter a Name and choose a Folder or Group to save the search in or create one. 7. Select Save .\nYou can now access your search in a list of created searches and groups under the\n*Group icon in the Pin Layers menu. You can also access all saved items from the Saved Maps** section of the main menu."
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#section-2",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#section-2",
+    "title": "urban-waffle",
+    "section": "",
+    "text": "Groups and Items\nIn Flex Map v2, groups are folders that hold and organize items you create.\nWhen you select\n*Group in the Pin Layers** menu, you create a folder that displays in the groups list. You can then name and open the group and drag any items into the group. You can also nest folders by dragging a group into another group.\nAfter you save an Item or search inside a folder or group, you can interact with it.\nSelect\n*View / Hide** on a search to toggle it on or off. When a search is on, the locations of the search display on the map.\nRemove an item or group by selecting\n*Delete** .\n*Important:** If you delete a group, all items inside the group, including nested items, are also deleted.\nYou can edit an Item or search at any time in Pin Layers .\n*Note: App admins see an additional option for items and groups: the Share** button. Admins can share items and groups with other app users. Learn more about admin functionality under\nUser Permissions and Features\n."
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#map-layers",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#map-layers",
+    "title": "urban-waffle",
+    "section": "Map Layers",
+    "text": "Map Layers\nMap Layers in the Flex Map v2 app are data driven from values stored in KML or GeoJSON, so interaction with them is more limited than other items in the app. The purpose of Map Layers is to display constantly updated lines or shapes on the map with their associated metrics, which are read directly from the uploaded layer file. For example, you may want to display shipping routes and their attributes from an outside system.\nTo begin, the data for layers must be correctly prepared. Learn how to do that in the\nFlex Map v2 Implementation Guide\n."
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#section-3",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#section-3",
+    "title": "urban-waffle",
+    "section": "",
+    "text": "Creating a Map Layer\n\nIn the main menu, select Map Layers .\nSelect\n\n*Item** .\nThe new Layers interface displays. 3. In the Map Layers menu, there are three icons on the left side:\n*Circle** ,\n*Polygon** , and\n*Polyline** .\nWhen you select\n*Circle , you can create a colored circle on the map with the area and radius provided. Adjust the size of the circle by clicking and dragging the orange dots on the perimeter of the circle. You can also click and drag the entire shape. Change the color of the circle by using the Select Color** icon. If you want to start over, select\n*Circle** again to delete it.\nThe second of the three icons is\n*Polygon** and allows you to create a shape with numerous sides. To use the tool, select\n*Polygon and choose a point on the map where you want the shape to begin. Keep adding points to the map until you achieve the shape you want. To finish the shape, select the last orange dot that you placed. You can move the entire shape by clicking inside it and dragging. To adjust the shape, click and drag the orange dots. To change the color, use the Select Color** icon. To delete the shape, select\n*Polygon** again.\nThe last icon is\n*Polyline** , which allows you to determine the total distance traveled along a path. You can create this path by clicking on the map, which leaves a trail of orange dots for every marker you place. When you are done, select the last orange marker you placed; the total distance of the polyline displays. To start over, select\n*Polyline** again."
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#favorites",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#favorites",
+    "title": "urban-waffle",
+    "section": "Favorites",
+    "text": "Favorites\n*Favorites is where you can find any locations favorited in the app, allowing you to quickly find important locations when you return to the app. You can add locations to Favorites** in a few ways.\nIf you enter a term in the main search bar of the app, a list of matching locations returns. You can then select the star icon next to a location to favorite it.\nYou can also favorite currently displayed locations in the List screen of the Pin Layers section.\nWhen viewing Favorites , you can create Groups and add favorited items to them, like you can for searches and Heatmaps. You can remove locations from Favorites by selecting\n*Delete** for the location.\nSelect\n*View / Hide** to toggle a favorited location on and off.\nAdmin users can share favorited locations here by selecting Share for the location."
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#saved-maps",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#saved-maps",
+    "title": "urban-waffle",
+    "section": "Saved Maps",
+    "text": "Saved Maps\nAny user can save the current configuration of territories and searches at any time by selecting\n*Save Map** in the map controls. When you save a map, you are prompted to enter a name for it.\nYou can see all of the maps by going to Saved Maps in the main menu. Here, you can add saved maps to Groups or delete them like other items in the app.\nAdmin users can also share saved maps by selecting Share on a saved map."
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#heatmaps",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#heatmaps",
+    "title": "urban-waffle",
+    "section": "Heatmaps",
+    "text": "Heatmaps\nYou can find Heatmaps in the main menu. Follow the steps below to create a new Heatmap.\n*Note:** Heatmaps only take effect after you save them.\n\nSelect Create a New Heatmap .\nSelect a Heatmap Layer .\nSelect a Heatmap Metric .\nUnder Color Range , select\n\n*Edit Range** . * Select the colored rectangle to choose and apply a color to a certain range.\n Manually input the numerals for the range.\n\n\n Remove any range by selecting\n **Delete**\n .\n* Above the ranges, you can\nReset to default ,\nClear all , and\nAdd new . * Make sure to select Apply Range to save your changes. 5. To activate the Heatmap, select Save .\nYou can then name your Heatmap and save it to a new or existing folder or Group.\nSelect\n*View / Hide** to display the new Heatmap on the map.\nDepending on the column you choose for the Heatmap, the map legend displays different numerical ranges.\n*Note:** Only one Heatmap can display at a time, unlike searches where many can display at one time."
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#map-settings",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#map-settings",
+    "title": "urban-waffle",
+    "section": "Map Settings",
+    "text": "Map Settings\n*Map Settings** is the final option in the main menu.\nIf you are a card owner or app admin, you can determine certain map behaviors rendering options, including rendering Pin Layers in standard cluster mode or allowing all pins to render individually on the map. You also have access to new Map Layers in the Base Layer menu."
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#data-settings",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#data-settings",
+    "title": "urban-waffle",
+    "section": "Data Settings",
+    "text": "Data Settings\nNote: This section is only visible on the main menu for card owners and app admins.\nIf you are a card owner or app admin, you have total control over the data that is available to the map for locations and Heatmap metrics.\nFrom the main menu, select Data Settings to view two options:\nThe Search and Display Preferences allow you to customize what is shown on your map. * Heatmap Metric Mapping allows you to define metrics for your Heatmap Layers and associate them with a color scale on the map."
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#section-4",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#section-4",
+    "title": "urban-waffle",
+    "section": "",
+    "text": "Search and Display Preferences\nWhen you select Search and Display Preferences , the settings grid displays. There are three sections in the settings: Schema , Display Order , and Tooltip Order .\nIn the Schema section, you can configure what you see in and on the map from your core Locations DataSet. The Schema settings have five editable elements:\nSearchInclude is the list of fields that you want to be available in the Pin Layers search builder. Check the boxes for the fields you want to include. * Static Label allows you to choose one field to display directly under the Pin on the map. * DisplayInclude displays the chosen fields on the detail view of a selected Pin. * TooltipInclude allows you to include the selected fields’ value in the tooltip when you hover over a Pin on the map. * DisplayType lets you tell Flex Map what type of data is in the field so it can handle special exceptions like links and images.\nAfter you update any setting, select\n*Expand and then Save & Close** to return to the app where your updates are live.\nIn the Display Order section, you can configure the order of your display fields by dragging and dropping them.\nMake sure to Save & Close .\nIn the Tooltip Order section, you can also drag and drop the fields into the order that you want.\nMake sure to Save & Close .****\n\n\nHeatmap Metric Mapping\nThe Heatmap Metric Mapping settings allow you to define and choose the metric fields you want to allow the app user to build off in the Heatmaps section of Flex Map v2. Heatmap Metric Mapping has the same three sections as Search and Display Preferences : Schema , Display Order , and Tooltip Order .\nIn the Schema section, you can configure what you see in and on the map from your Heatmaps DataSet. The Schema settings have five editable elements:\nUse as Metric is the list of fields that you want to use as metrics in Heatmaps . Check the boxes for the fields you want to include. * DisplayInclude displays the chosen fields on the detail view of a selected Pin. * TooltipInclude allows you to include the selected fields’ value in the tooltip when you hover over a Pin on the map. * Label allows you to rename your metrics fields for better picklist selections in the builder. * Aggregation allows you to select the aggregation method.\nAfter you update any setting, select\n*Expand and then Save & Close** to return to the app where your updates are live.\nIn the Display Order section, you can configure the order of your display fields by dragging and dropping them.\nMake sure to Save & Close .\nIn the Tooltip Order section, you can also drag and drop the fields into the order that you want.\nMake sure to Save & Close .****"
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#user-permissions-and-features",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#user-permissions-and-features",
+    "title": "urban-waffle",
+    "section": "User Permissions and Features",
+    "text": "User Permissions and Features\nThe app supports three user levels: Admin, Standard, and View-only.\nAdmin users can create, edit, and delete items in the app, share items they create in the app with members of Domo Groups, create custom Map Layers, and configure a default map and a default center. See\nMap Settings\n, above. * Standard users can create, edit, and delete their own items, and view items that admins share with them. They can’t share items, create Map Layers, or set defaults. * View-only users can view items that admins share with them. They can’t create, edit, or delete items. They also cannot share items or set defaults.\nTo learn more, see the\nFlex Map v2 Implementation Guide\n."
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#interacting-with-the-map",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#interacting-with-the-map",
+    "title": "urban-waffle",
+    "section": "Interacting with the Map",
+    "text": "Interacting with the Map\nAfter you create searches, Map Layers, and Heatmaps, you can interact with these items on the map.\nSearches display as colored dots on the map called Pins. If a Pin represents an individual location, it is a small dot without a number in the middle. If it represents a cluster of locations, the dot is larger and has a number in the middle representing the number of grouped locations.\n\nZoom into a clustered Pin to see the distinct locations.\nSelecting a clustered Pin zooms into that location by one level.\nSelecting an individual Pin opens a details panel that shows additional information for that location. If the additional information includes URLs, the URLs are colored orange and are clickable. If the additional information includes a link to an image, the image displays in the details panel.\nHovering over an individual Pin displays a tooltip for that location which card owners and admins can configure in the\n\n*Data Settings**\n.\nMap Layers display on the map as a filled-in border around the geographical area.\nHovering over the territory displays the name of the location you are hovering over. Heatmaps display as multi-colored areas filled in with colors representing the value of the Heatmap metric. * Hovering over the Heatmap displays a tooltip with the metric that the color of the area represents. * Selecting a Heatmap area brings up a tooltip showing all related Heatmap metrics for that area. * A legend of what each of the Heatmap’s colors represents displays in the lower-left corner of the map.\nEnter a term in the search bar at the top of the screen to view all the Pins that match your search entry.\nYou can use this to quickly find a single location, a group of locations, or to create a favorite by selecting the star next to the location in the search results.\n*Note: Admins see options to Set as Default and Set as Center** at the bottom of the app.\n\nSelecting Set as Default saves any displayed searches, Map Layers, and Heatmaps as the map default. This means that any user who loads the app views these default items when the app loads, as long as the items have been shared with them.\nSelecting Set as Center sets the current view of the map as the default center. This means, for example, that an admin can set the contiguous United States as the default view, zoom in, and then save the revised view so that other users view it when they open the app."
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#demo-notes",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html#demo-notes",
+    "title": "urban-waffle",
+    "section": "Demo Notes",
+    "text": "Demo Notes\nOne way to demo the app is to upload a DataSet to power pin locations based on lat/long and Heatmap metrics.\nThen show how to build territories and save searches and Heatmaps."
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/available_apps/index.html",
+    "href": "knowledge_base/creating_custom_visualizations/available_apps/index.html",
+    "title": "Available Apps",
+    "section": "",
+    "text": "Intro\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/publish_in_the_appstore/index.html",
+    "href": "knowledge_base/creating_custom_visualizations/publish_in_the_appstore/index.html",
+    "title": "Publish in the Appstore",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/index.html",
+    "href": "knowledge_base/creating_custom_visualizations/index.html",
+    "title": "Creating Custom Visualizations",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/creating_custom_visualizations/explore_the_appstore/index.html",
+    "href": "knowledge_base/creating_custom_visualizations/explore_the_appstore/index.html",
+    "title": "Explore the Appstore",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/getting_to_know_domo/free_domo/index.html",
+    "href": "knowledge_base/getting_to_know_domo/free_domo/index.html",
+    "title": "Free Domo",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/getting_to_know_domo/notifications_and_alerts/index.html",
+    "href": "knowledge_base/getting_to_know_domo/notifications_and_alerts/index.html",
+    "title": "Notifications And Alerts",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/getting_to_know_domo/user_profile/index.html",
+    "href": "knowledge_base/getting_to_know_domo/user_profile/index.html",
+    "title": "User Profile",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/getting_to_know_domo/business_in_a_box/index.html",
+    "href": "knowledge_base/getting_to_know_domo/business_in_a_box/index.html",
+    "title": "Business In A Box",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/getting_to_know_domo/getting_started/index.html",
+    "href": "knowledge_base/getting_to_know_domo/getting_started/index.html",
+    "title": "Getting Started",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/getting_to_know_domo/goals_center/index.html",
+    "href": "knowledge_base/getting_to_know_domo/goals_center/index.html",
+    "title": "Goals Center",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/getting_to_know_domo/buzz/index.html",
+    "href": "knowledge_base/getting_to_know_domo/buzz/index.html",
+    "title": "Buzz",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/getting_to_know_domo/index.html",
+    "href": "knowledge_base/getting_to_know_domo/index.html",
+    "title": "Getting To Know Domo",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/getting_to_know_domo/domo_mobile/index.html",
+    "href": "knowledge_base/getting_to_know_domo/domo_mobile/index.html",
+    "title": "Domo Mobile",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/getting_to_know_domo/support_resources/index.html",
+    "href": "knowledge_base/getting_to_know_domo/support_resources/index.html",
+    "title": "Support Resources",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/getting_to_know_domo/projects_and_tasks/index.html",
+    "href": "knowledge_base/getting_to_know_domo/projects_and_tasks/index.html",
+    "title": "Projects And Tasks",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/using_domo_apis/developer_topics/index.html",
+    "href": "knowledge_base/using_domo_apis/developer_topics/index.html",
+    "title": "Developer Topics",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/using_domo_apis/index.html",
+    "href": "knowledge_base/using_domo_apis/index.html",
+    "title": "Using Domo APIs",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/transforming_data_in_domo/magic_etl/index.html",
+    "href": "knowledge_base/transforming_data_in_domo/magic_etl/index.html",
+    "title": "Magic ETL",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/transforming_data_in_domo/magic_etl/tiles/index.html",
+    "href": "knowledge_base/transforming_data_in_domo/magic_etl/tiles/index.html",
+    "title": "Tiles",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/transforming_data_in_domo/transformation_tips_and_tricks/index.html",
+    "href": "knowledge_base/transforming_data_in_domo/transformation_tips_and_tricks/index.html",
+    "title": "Transformation Tips And Tricks",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/transforming_data_in_domo/dataflow_management/index.html",
+    "href": "knowledge_base/transforming_data_in_domo/dataflow_management/index.html",
+    "title": "DataFlow Management",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/transforming_data_in_domo/sql_dataflows/index.html",
+    "href": "knowledge_base/transforming_data_in_domo/sql_dataflows/index.html",
+    "title": "SQL DataFlows",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/transforming_data_in_domo/index.html",
+    "href": "knowledge_base/transforming_data_in_domo/index.html",
+    "title": "Transforming Data In Domo",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/transforming_data_in_domo/enterprise_stacker/index.html",
+    "href": "knowledge_base/transforming_data_in_domo/enterprise_stacker/index.html",
+    "title": "Enterprise Stacker",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/transforming_data_in_domo/sdks/index.html",
+    "href": "knowledge_base/transforming_data_in_domo/sdks/index.html",
+    "title": "SDKs",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/transforming_data_in_domo/dataset_views/index.html",
+    "href": "knowledge_base/transforming_data_in_domo/dataset_views/index.html",
+    "title": "DataSet Views",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/transforming_data_in_domo/datafusion/index.html",
+    "href": "knowledge_base/transforming_data_in_domo/datafusion/index.html",
+    "title": "DataFusion",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/consuming_data_in_domo/interacting_with_cards_and_dashboards/index.html",
+    "href": "knowledge_base/consuming_data_in_domo/interacting_with_cards_and_dashboards/index.html",
+    "title": "Interacting With Cards And Dashboards",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/consuming_data_in_domo/exporting_cards_and_dashboards/index.html",
+    "href": "knowledge_base/consuming_data_in_domo/exporting_cards_and_dashboards/index.html",
+    "title": "Exporting Cards And Dashboards",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "knowledge_base/consuming_data_in_domo/index.html",
+    "href": "knowledge_base/consuming_data_in_domo/index.html",
+    "title": "Consuming Data In Domo",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "test/core.html",
+    "href": "test/core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()"
+  }
+]

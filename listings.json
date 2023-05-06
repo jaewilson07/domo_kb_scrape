@@ -1,0 +1,396 @@
+[
+  {
+    "listing": "/knowledge_base/working_with_datasets_in_domo/data_center_overview/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/working_with_datasets_in_domo/automl_machine_learning/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/working_with_datasets_in_domo/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/working_with_datasets_in_domo/sharing_access_to_datasets/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/working_with_datasets_in_domo/personalized_data_permissions_pdp/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/connecting_data_to_domo/other_connection_methods/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/connecting_data_to_domo/workbench/workbench_4/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/connecting_data_to_domo/workbench/workbench_5/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/connecting_data_to_domo/workbench/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/connecting_data_to_domo/workbench/workbench_51/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/connecting_data_to_domo/workbench/workbench_52/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/connecting_data_to_domo/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/connecting_data_to_domo/cloud_amplifier/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/connecting_data_to_domo/connectors/database_connectors/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/connecting_data_to_domo/connectors/file_connectors/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/connecting_data_to_domo/connectors/api_connectors/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/connecting_data_to_domo/connectors/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/connecting_data_to_domo/connectors/available_custom_connectors/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/connecting_data_to_domo/connectors/partition_connectors/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/connecting_data_to_domo/connectors/writeback_connectors/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/connecting_data_to_domo/connectors/general_connect_info/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/release_notes/current_release_notes/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/release_notes/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/release_notes/archived_feature_release_notes/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/training/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/training/selfservice_training/best_practices_resources/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/training/selfservice_training/onboarding_resources/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/training/selfservice_training/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/training/selfservice_training/coursebuilder_14/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/training/selfservice_training/business_users_and_adoption_resources/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/training/paid_training/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_content_in_domo/card_and_dashboard_management/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_content_in_domo/beast_mode/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_content_in_domo/sumo_cards/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_content_in_domo/doc_cards/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_content_in_domo/variables/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_content_in_domo/notebook_cards/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_content_in_domo/visualization_cards/chart_properties/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_content_in_domo/visualization_cards/analyzer/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_content_in_domo/visualization_cards/visualization_card_details_view_actions/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_content_in_domo/visualization_cards/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_content_in_domo/visualization_cards/powering_your_card/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_content_in_domo/visualization_cards/chart_types/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_content_in_domo/sharing_access_to_cards_and_dashboards/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_content_in_domo/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_content_in_domo/poll_cards/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/distributing_domo_content/scheduled_reports/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/distributing_domo_content/microsoft_office_addins/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/distributing_domo_content/publication_groups/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/distributing_domo_content/plugins_for_sharing_domo_content/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/distributing_domo_content/publications_slideshows/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/distributing_domo_content/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/distributing_domo_content/domo_everywhere/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/understanding_data/data_literacy/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/understanding_data/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/administrating_domo/certifications/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/administrating_domo/workflows/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/administrating_domo/implementing_sso/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/administrating_domo/domo_security_options/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/administrating_domo/specifying_company_settings/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/administrating_domo/governance_tools/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/administrating_domo/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/administrating_domo/approvals/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/administrating_domo/admin_settings_overview/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/administrating_domo/controlling_access_in_domo/user_and_group_management/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/administrating_domo/controlling_access_in_domo/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/administrating_domo/controlling_access_in_domo/roles/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_custom_visualizations/available_apps/index.html",
+    "items": [
+      "/knowledge_base/creating_custom_visualizations/available_apps/posts/flex_map_v2_user_guide/index.html"
+    ]
+  },
+  {
+    "listing": "/knowledge_base/creating_custom_visualizations/publish_in_the_appstore/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_custom_visualizations/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/creating_custom_visualizations/explore_the_appstore/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/getting_to_know_domo/free_domo/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/getting_to_know_domo/notifications_and_alerts/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/getting_to_know_domo/user_profile/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/getting_to_know_domo/business_in_a_box/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/getting_to_know_domo/getting_started/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/getting_to_know_domo/goals_center/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/getting_to_know_domo/buzz/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/getting_to_know_domo/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/getting_to_know_domo/domo_mobile/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/getting_to_know_domo/support_resources/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/getting_to_know_domo/projects_and_tasks/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/using_domo_apis/developer_topics/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/using_domo_apis/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/transforming_data_in_domo/magic_etl/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/transforming_data_in_domo/magic_etl/tiles/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/transforming_data_in_domo/transformation_tips_and_tricks/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/transforming_data_in_domo/dataflow_management/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/transforming_data_in_domo/sql_dataflows/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/transforming_data_in_domo/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/transforming_data_in_domo/enterprise_stacker/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/transforming_data_in_domo/sdks/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/transforming_data_in_domo/dataset_views/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/transforming_data_in_domo/datafusion/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/consuming_data_in_domo/interacting_with_cards_and_dashboards/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/consuming_data_in_domo/exporting_cards_and_dashboards/index.html",
+    "items": []
+  },
+  {
+    "listing": "/knowledge_base/consuming_data_in_domo/index.html",
+    "items": []
+  }
+]
